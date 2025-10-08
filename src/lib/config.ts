@@ -6,7 +6,7 @@ function getProjectName(): string {
   }
   
   // Default fallback
-  return "Mottasl"
+  return "Mottaslll"
 }
 
 // Get the dynamic app name

@@ -21,7 +21,7 @@ Mottasl is a comprehensive communication platform designed to streamline messagi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/attia-twerlo/Mottasl-github.git
+git clone https://github.com/ahmedmustafaux/Mottasl-newux.git
 cd Mottasl
 ```
 
